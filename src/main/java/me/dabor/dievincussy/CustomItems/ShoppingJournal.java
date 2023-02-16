@@ -9,6 +9,6 @@ public class ShoppingJournal implements Listener {
     @EventHandler
     public void onRightClick(PlayerInteractEvent evt) {
         Player player = evt.getPlayer();
-        if (player.getActiveItem() )
+        // if (player.getActiveItem() )
     }
 }
