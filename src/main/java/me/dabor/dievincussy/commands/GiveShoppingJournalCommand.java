@@ -17,7 +17,7 @@ public class GiveShoppingJournalCommand implements CommandExecutor {
         ItemStack item = new ItemStack(Material.BOOK);
         ItemMeta itemMeta = item.getItemMeta();
         TextComponent textComponent = Component.text("Schwertus");
-        itemMeta.displayName(textComponent);
+        itemMeta.displayName(textComponent); //noah diff
         item.setItemMeta(itemMeta);
 
         Player player = (Player) sender;
