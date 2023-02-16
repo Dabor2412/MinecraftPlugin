@@ -1,0 +1,13 @@
+name: DieVincussy
+version: '${project.version}'
+main: me.dabor.dievincussy.DieVincussy
+api-version: 1.19
+description: Moin Leute Trymacs hier
+commands:
+  hallowelt:
+  changeblock:
+  greed:
+  getmoney:
+  setmoney:
+  giveshoppingjournal:
+  shop:
